@@ -23,7 +23,17 @@ const Developer = (name) => ({
   contact: "amardipy10@gmail.com"
 });
 
-const me = Developer("Amardip Yadav");```
+const me = Developer("Amardip Yadav");
+
+if (!success) {
+  coffee();
+  codeMore();
+  tryAgain();
+} else {
+  pushToGitHub();
+  chill();
+}
+```
 
 ## 🛠️ Tech Stack
 
@@ -40,12 +50,3 @@ const me = Developer("Amardip Yadav");```
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
-
-if (!success) {
-  coffee();
-  codeMore();
-  tryAgain();
-} else {
-  pushToGitHub();
-  chill();
-}
