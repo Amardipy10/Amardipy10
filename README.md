@@ -25,8 +25,11 @@ const Developer = (name) => ({
 
 const me = Developer("Amardip Yadav");
 
-if (!succeed) {
+if (!success) {
+  coffee();
+  codeMore();
   tryAgain();
 } else {
-  party();
+  pushToGitHub();
+  chill();
 }
