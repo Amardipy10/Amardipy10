@@ -13,14 +13,14 @@ const Developer = (name) => ({
   pronouns: "he" | "his",
   status: "Student",
   technologies: {
-    frontEnd: ["HTML", "CSS", "SASS", "JavaScript", "React"],
-    backEnd: ["Node.js", "Express.js", "Python", "Mongoose.js"],
-    database: ["MongoDB", "SQL"],
+    frontEnd: ["HTML", "CSS", "JavaScript", "React"],
+    backEnd: ["Node.js","Python"],
+    database: ["SQL"],
     libraries: ["Bootstrap", "jQuery"]
   },
-  editors: ["VS Code", "Vim", "PyCharm", "Nano"],
-  learning: ["Kali Linux", "C++"],
-  contact: "your-email@gmail.com"
+  editors: ["VS Code","PyCharm"],
+  learning: ["DSA"],
+  contact: "amardipy10@gmail.com"
 });
 
 const me = Developer("Amardip Yadav");
