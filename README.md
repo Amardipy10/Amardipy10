@@ -15,7 +15,7 @@ const Developer = (name) => ({
   technologies: {
     frontEnd: ["HTML", "CSS", "JavaScript", "React"],
     backEnd: ["Node.js","Python"],
-    database: ["SQL","MongoDB],
+    database: ["SQL","MongoDB"],
   },
   editors: ["VS Code","PyCharm"],
   learning: ["DSA"],
